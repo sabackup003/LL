@@ -2,7 +2,7 @@
 //  LittleLemon___dinner_menu___SAUITests.swift
 //  LittleLemon - dinner menu - SAUITests
 //
-//  Created by Aleksandr Surkov on 21/04/2024.
+//  Created by Alex S on 21/04/2024.
 //
 
 import XCTest
